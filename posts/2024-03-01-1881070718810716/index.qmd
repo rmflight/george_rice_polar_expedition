@@ -3,7 +3,7 @@ title: "1881-07-07:1881-07-16"
 subtitle: |
   Leaving Newfoundland
 date: 2024-03-01
-categories: [diary]
+categories: [diary, Rice, Greenland]
 editor_options:
   chunk_output_type: console
 ---
