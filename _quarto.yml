@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "George Rice and the First Polar Year Expedition"
+  site-url: "https://rmflight.github.io/george_rice_polar_expedition"
+  favicon: static/img/robertmflight_square.jpg
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/rmflight
+      - icon: mastodon
+        href: https://mastodon.social/@rmflight
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme: 
+      dark: darkly
+      light: flatly
+    css: 
+      - styles.css
+
+

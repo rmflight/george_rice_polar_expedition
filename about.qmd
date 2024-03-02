@@ -1,0 +1,41 @@
+---
+title: "About"
+image: static/img/profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rmflight
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@rmflight
+    - icon: envelope
+      text: Email
+      href: mailto:rflight79@gmail.com
+---
+
+## The Diary
+
+Back in the summer of 1881, my long lost relative George Rice, from Berwick, Nova Scotia, Canada, was hired as the photographer for the scientific expedition to Lady Franklin Bay.
+Sadly, George Rice passed away on April 9, 1884, before the remaining party members were rescued.
+After their rescue, George's diary was returned to his parents.
+The Berwick Register published extracts of the diary in the late 1800's.
+Eventually, my Grandfather Rice's nephew somehow got a copy of those newspaper clippings.
+My Grandfather made three copies of the clippings, one for each of his children.
+When my mother passed from early onset Alzheimer's, I was given her copy.
+
+As far as I am aware, outside of being used as background for books about the Greely expedition, no one else has been able to read the contents of George's diary.
+I feel like that should be changed.
+Also, in many places, the copies of the newspaper are barely legible.
+I figured this way, it's much easier for both myself and others to be able to read George's story.
+
+In addition, the copies were not in order when I received them.
+I don't know if the originals were out of order, or if my Grandfather got them out of order when making the copies.
+So, I did a bunch of work to get them in order.
+I'm looking forward to reading George's diary along with you.
+
+## Me
+
+By day I'm a researcher in Bioinformatics at the University of Kentucky.
+This copy of diary extracts has definitely gotten me more interested in family history.
