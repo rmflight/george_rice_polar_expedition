@@ -1,5 +1,5 @@
 ---
-title: "George Rice and the First Polar Year Expedition"
+title: "George Rice and the First International Polar Year Expedition"
 listing:
   feed: true
   contents: posts
@@ -11,6 +11,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-
-<a rel="me" href="https://mastodon.social/@rmflight"></a>

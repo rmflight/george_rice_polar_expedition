@@ -4,6 +4,7 @@ subtitle: |
   What exactly is this?
 date: 2024-03-01
 categories: [meta]
+author: Robert M Flight
 editor_options:
   chunk_output_type: console
 bibliography: refs.bib
@@ -16,9 +17,12 @@ George was a member of the expedition to [Lady Franklin Bay in 1881](https://en.
 There have been books written about that expedition, and even a PBS special.
 But outside of those who read the newspaper when these were originally published in the Berwick Register in the late 1800's, and the researchers who have accessed the diary currently in the [Dartmouth Library special collection](https://archives-manuscripts.dartmouth.edu/repositories/2/resources/1206), I'm guessing many people have not read any of it.
 
-Apparently, my extended family have had copies of the newspaper clippings for quite some time, but no one tried to read them as they were out of order.
+Apparently, my extended family have had copies of the newspaper clippings for quite some time, but no one tried to read too much of them as they were all out of order.
 Over the course of a couple of weeks, I got them in order.
 But the copies are still really hard to read, and I think they deserve to be shared (and the copyright is long gone on them).
+
+![A photo of one of the photocied pages](example_page.jpg)
+
 So, if you want, you can read along as I manage to get them typed up.
 
 There are sections where the text is illegible or pieces of paper are missing.

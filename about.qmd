@@ -1,12 +1,12 @@
 ---
 title: "About"
-image: static/img/profile.jpg
+image: static/img/GeorgeWRice.jpg
 about:
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com/rmflight
+      href: https://github.com/rmflight/george_rice_polar_expedition
     - icon: mastodon
       text: Mastodon
       href: https://mastodon.social/@rmflight
@@ -15,14 +15,21 @@ about:
       href: mailto:rflight79@gmail.com
 ---
 
-## The Diary
+## George W Rice
 
-Back in the summer of 1881, my long lost relative George Rice, from Berwick, Nova Scotia, Canada, was hired as the photographer for the scientific expedition to Lady Franklin Bay.
-Sadly, George Rice passed away on April 9, 1884, before the remaining party members were rescued.
+In the summer of 1881, George W Rice, from Berwick, Nova Scotia, Canada, was hired as the photographer for the scientific expedition to Lady Franklin Bay.
+Sadly, he passed away on April 9, 1884, at the age of 28, before the remaining party members were rescued.
 After their rescue, George's diary was returned to his parents.
-The Berwick Register published extracts of the diary in the late 1800's.
-Eventually, my Grandfather Rice's nephew somehow got a copy of those newspaper clippings.
-My Grandfather made three copies of the clippings, one for each of his children.
+The Berwick Register published extracts of his diary in the late 1800's.
+Those newspaper clippings are being reproduced here, for everyone else to read.
+
+## Robert M Flight
+
+I am Robert M Flight, a bioinformatics analyst at the Markey Cancer Center, University of Kentucky.
+My involvement in reproducing the newspaper clippings is a little roundabout.
+George W Rice's family in Berwick, Nova Scotia, Canada, are a far removed branch of my Grandfather's, Robert E Rice, family.
+Robert's nephew (name currently escaping me), was very interested in Rice family history, and obtained a copy of the diary newspaper clippings.
+My Grandfather Robert made three copies of the clippings, one for each of his children.
 When my mother passed from early onset Alzheimer's, I was given her copy.
 
 As far as I am aware, outside of being used as background for books about the Greely expedition, no one else has been able to read the contents of George's diary.
@@ -35,7 +42,4 @@ I don't know if the originals were out of order, or if my Grandfather got them o
 So, I did a bunch of work to get them in order.
 I'm looking forward to reading George's diary along with you.
 
-## Me
-
-By day I'm a researcher in Bioinformatics at the University of Kentucky.
 This copy of diary extracts has definitely gotten me more interested in family history.
