@@ -6,6 +6,7 @@ website:
   title: "George Rice and the First International Polar Year Expedition"
   site-url: "https://rmflight.github.io/george_rice_polar_expedition"
   favicon: static/img/robertmflight_square.jpg
+  page-navigation: true
   navbar:
     right:
       - about.qmd
