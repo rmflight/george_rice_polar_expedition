@@ -2,7 +2,7 @@
 title: "1881-07-17:1881-07-20"
 subtitle: |
   Sending mail.
-date: 2024-03-02
+date: 2024-03-02T01:00
 categories: [diary, rice, greenland]
 editor_options:
   chunk_output_type: console
