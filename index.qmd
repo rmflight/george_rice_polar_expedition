@@ -2,13 +2,15 @@
 title: "George Rice and the First International Polar Year Expedition"
 listing:
   feed: true
-  contents: posts
+  contents: 
+    - "introduction.qmd"
+    - "Diary_Entries/1881/"
   sort: 
     - "date desc"
   type: default
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
 page-layout: full
-title-block-banner: true
 ---
+
