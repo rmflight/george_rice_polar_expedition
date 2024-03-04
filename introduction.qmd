@@ -47,7 +47,7 @@ So I am guessing it is relatively complete.
 
 Let's go along with George Rice, and the rest of the expedition to the then unknown northern reaches.
 
-The first diary entry is [here](Diary_Entries/1881/1881-07-21).
+The first diary entry is [here](Diary_Entries/1881/1881-07-21/index.html).
 You can use the side navigation to look for specific entries.
 
 One note about the language and attitudes expressed in this work: George was living in the late 1800's, and the writing reflects that, especially in his writing about the native peoples.
