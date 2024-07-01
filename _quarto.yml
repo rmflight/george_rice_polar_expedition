@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  repo-url: https://github.com/rmflight/george_rice_polar_expedition
+  repo-actions: [edit, issue]
+  reader-mode: true
+  title: "George Rice and the First International Polar Year Expedition"
+  site-url: "https://rmflight.github.io/george_rice_polar_expedition"
+  page-navigation: true
+  navbar:
+    right:
+      - introduction.qmd
+      - icon: github
+        href: https://github.com/rmflight/george_rice_polar_expedition
+      - icon: mastodon
+        href: https://mastodon.social/@rmflight
+      - icon: rss
+        href: index.xml
+  sidebar: 
+    contents: "Diary_Entries/"
+format:
+  html:
+    theme: 
+      dark: darkly
+      light: flatly
+    css: 
+      - styles.css
+    resource-path: 
+      - static/img
+
+

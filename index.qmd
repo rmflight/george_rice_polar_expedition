@@ -1,0 +1,16 @@
+---
+title: "George Rice and the First International Polar Year Expedition"
+listing:
+  feed: true
+  contents: 
+    - "introduction.qmd"
+    - "Diary_Entries/"
+  sort: 
+    - "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+---
+

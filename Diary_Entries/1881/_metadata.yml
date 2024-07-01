@@ -1,0 +1,30 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable CC licence appendix
+license: "CC BY-NC"
+
+# Default for table of contents
+toc: true
+toc-title: Entries
+toc-location: right
+
+# Default knitr options
+execute:
+  echo: true
+  message: true
+  warning: true
+
+# Default author
+author:
+  - name: George W Rice
+    url: https://en.wikipedia.org/wiki/George_W._Rice_(photographer)
+
+email: rflight79+gwrice@gmail.com
+
+# Default fields for citation
+citation: true
+
